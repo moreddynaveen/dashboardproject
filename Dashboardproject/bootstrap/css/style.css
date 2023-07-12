@@ -1,0 +1,29 @@
+.dropdown-item:hover{
+    background:linear-gradient(45deg,black,darkslategrey);
+    color:white !important;
+    box-shadow:0px 0px spx balck;
+}
+.bg-teal{
+    background-color:#2a6f6f !important;
+}
+.btn-primary{
+    background:linear-gradient(45deg,darkslategrey,cornflowerblue);
+}
+.btn-success{
+    background:linear-gradient(45deg,darkslategrey,limegreen);
+}
+.btn-warning{
+    background:linear-gradient(45deg,darkslategrey,coral);
+}
+.bg-secondary{
+    background:linear-gradient(45deg,darkslategrey,purple);
+}
+.bg-primary{
+    background:linear-gradient(45deg,darkslategrey,cornflowerblue);
+}
+.bg-success{
+    background:linear-gradient(45deg,darkslategrey,limegreen);
+}
+.bg-warning{
+    background:linear-gradient(45deg,darkslategrey,coral);
+}
